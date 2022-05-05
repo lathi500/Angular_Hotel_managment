@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "_id": 2,
+      "name": "xyz",
+      "Email": "x",
+      "Mobile": "x",
+      "Address": "x",
+      "Services": "x",
+      "id": 2
+    },
+    {
+      "_id": 0,
+      "name": "xyz",
+      "Email": "xyz",
+      "Mobile": "xyz",
+      "Address": "xyz",
+      "Services": "xyz",
+      "id": 3
+    },
+    {
+      "_id": 0,
+      "name": "c",
+      "Email": "c",
+      "Mobile": "c",
+      "Address": "c",
+      "Services": "c",
+      "id": 4
+    }
+  ],
+  "signup": [
+    {
+      "Name": "Bhavin",
+      "MNumber": "898989898",
+      "Email": "bhavin456@gmail,com",
+      "Password": "Bhavin",
+      "id": 1
+    },
+    {
+      "Name": "Mahesh",
+      "MNumber": "898988999",
+      "Email": "100,Mahesh",
+      "Password": "Mahesh",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
